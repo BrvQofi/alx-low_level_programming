@@ -1,0 +1,2 @@
+Write the script 
+gcc -S -masm =intel $CFILE
