@@ -2,11 +2,11 @@
 
 	/**
 
-	 * main - print _putchar
+	 * main - Entry point of my code,
 
-	 * is written by mbah
+	 *
 
-	 * Return: 0
+	 * Return:Always  0
 
 	 */
 
